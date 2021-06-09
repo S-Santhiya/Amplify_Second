@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "amplifysecondcc40ce37": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
